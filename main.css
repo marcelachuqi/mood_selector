@@ -1,0 +1,20 @@
+.app_js {
+  background-color: #ffcc00;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.yellow {
+  background-color: #ffcc00;
+}
+
+.orange {
+  background-color: #ff8400;
+}
+
+.selected_js {
+  color: black;
+  font-size: 100px;
+}
